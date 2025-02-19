@@ -1,3 +1,4 @@
+> **Disclaimer**: This project is a work in progress and is not yet complete. It is still in early parts of development. Contributions, suggestions, and feedback are welcome!
 # C-Shell
 
 Welcome to **C-Shell**, a simple shell implementation in C! This project is a learning exercise aimed at understanding how shells work under the hood. The goal is to create a functional shell with most of the basic capabilities of `bash`, excluding advanced features like piping and custom prompts (for now).
