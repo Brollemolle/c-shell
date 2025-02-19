@@ -26,7 +26,7 @@ To build and run the C-Shell locally, follow these steps:
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/c-shell.git
+   git clone https://github.com/Brollemolle/c-shell.git
    cd c-shell
    ```
 
